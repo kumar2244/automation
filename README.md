@@ -1,9 +1,9 @@
 # automation
 TechStack used:
-Java
-Selenium Webdriver
-Cucumber
-JUnit
+Java,
+Selenium Webdriver,
+Cucumber,
+JUnit,
 log4j2
 
 Reporting:
